@@ -23,7 +23,7 @@ FedSB utilizes label smoothing at the client level to prevent overfitting to dom
 FedSB achieves state-of-the-art results on three out of four datasets, significantly advancing federated learning and domain generalization.
 
 ### Paper
-For more details, refer to our [paper]([link-to-paper](https://arxiv.org/abs/2412.11408)).
+For more details, refer to our [paper](https://arxiv.org/abs/2412.11408).
 
 ### Code
 The code for this repository is **coming soon**. Stay tuned for updates!
