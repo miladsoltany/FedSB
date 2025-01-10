@@ -5,6 +5,7 @@ This repository contains the implementation of **FedSB**, a novel approach to fe
 1. **Label Smoothing**: Mitigates overconfidence of local models, enhancing domain generalization.
 2. **Balanced Decentralized Training**: Introduces a budgeting mechanism to ensure consistent contributions from all clients.
 
+
 ### Abstract
 FedSB utilizes label smoothing at the client level to prevent overfitting to domain-specific features and employs a decentralized budgeting mechanism to balance training contributions. Our experiments on four multi-domain datasets (PACS, VLCS, OfficeHome, and TerraIncognita) demonstrate state-of-the-art performance on three of the four datasets.
 
